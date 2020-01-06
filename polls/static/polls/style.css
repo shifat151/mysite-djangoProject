@@ -1,8 +1,9 @@
 li a {
-    color:cadetblue;
+    color:rgb(36, 63, 219);
 }
 
 body{
     background: white
     url("image/background.jpg") no-repeat;
+    background-size: cover;
 }
